@@ -1,4 +1,11 @@
-# Maze World - Assignment 2
+# Maze World
+
+## [Report Link](https://github.com/DavidMouse1118/Reinforcement-Learning-Maze-World/blob/master/report.pdf)
+
+## Analysis
+![](analysis.png)
+
+## Assigment Detail
 Assignment code for course ECE 493 T25 at the University of Waterloo in Spring 2019.
 (*Code designed and created by Sriram Ganapathi Subramanian and Mark Crowley, 2019*)
 
