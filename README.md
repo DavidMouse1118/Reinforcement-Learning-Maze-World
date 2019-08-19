@@ -1,11 +1,4 @@
-# Maze World
-
-## [Report Link](https://github.com/DavidMouse1118/Reinforcement-Learning-Maze-World/blob/master/report.pdf)
-
-## Analysis
-![](analysis.png)
-
-## Assigment Detail
+# Maze World - Assignment 2 [[Report](https://github.com/DavidMouse1118/Reinforcement-Learning-Maze-World/blob/master/report.pdf)]
 Assignment code for course ECE 493 T25 at the University of Waterloo in Spring 2019.
 (*Code designed and created by Sriram Ganapathi Subramanian and Mark Crowley, 2019*)
 
@@ -59,3 +52,6 @@ So make sure your code runs with the given unmodified `run_main` and `maze_end` 
 - For the default algorithms we have implmented on these domains it seems to take at least 1500 episodes to converge, so don't read too much into how it looks after a few hundred.
 
 <img src="plot.png" width="400"/><img src="plotzoom.png" width="400"/>
+
+## My Analysis
+![](analysis.png)
